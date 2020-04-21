@@ -2,7 +2,7 @@
 
 Define temporal dependencies explicitly instead of using indefinite temporal keywords.
 
-> Words and phrases that signal non-specific timing are ambiguous and not verifiable. Indefinite temporal keywords can cause confusion or uninted meaning. These words should be replaced by specific timing constraints.
+> Words and phrases that signal non-specific timing are ambiguous and not verifiable. Indefinite temporal keywords can cause confusion or unintended meaning. These words should be replaced by specific timing constraints.
 
 #### Examples
 

@@ -7,7 +7,6 @@ Avoid the use of vague quantifiers.
 #### Examples
 
 - some
-- any
 - allowable
 - several
 - many

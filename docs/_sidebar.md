@@ -6,5 +6,6 @@
 * [Vague Adverbs](vagueadverb.md)
 * [Superfluous Infinitives](infinitive.md)
 * [Pronouns](pronoun.md)
-* [Vague Quantifiers](vaguequantification.md)
-* [Temporal Dependencies](temporaldependencies.md)
+* [Vague Quantifiers](vaguequantifier.md)
+* [Temporal Dependencies](temporaldependency.md)
+* [Universals](universalquantifier.md)
