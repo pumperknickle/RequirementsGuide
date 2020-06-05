@@ -9,3 +9,4 @@
 * [Vague Quantifiers](vaguequantifier.md)
 * [Temporal Dependencies](temporaldependency.md)
 * [Universals](universalquantifier.md)
+* [Escape Clauses](escapeclause.md)
