@@ -2,6 +2,7 @@
 
 
 * [Home](/)
+* [Refactoring Requirements](refactoring.md)
 * Accuracy
 	* [Passive Voice](passivevoice.md)
 	* [Indefinite Articles](indefinitearticle.md)
