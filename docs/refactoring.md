@@ -10,10 +10,11 @@ Hi! Welcome to the guide on improving your requirement's quality. By using the *
 
 If there are undefined terms, add definitions for those terms in a data dictionary, glossary, or text file. 
 
-In this example above, we have three undefined term warnings - **User Interactions subsystem**, **authorized user**, and **managed data ingest task** highlighted in gray. Adding a definition for each of these undefined terms fixes the undefined term warnings.
+In this example above, we have three undefined term warnings - **User Interactions subsystem**, **authorized user**, and **managed data ingest task** highlighted in gray. Adding a definition to an AV-2 for each of these undefined terms fixes the undefined term warnings. 
 
-![enter image description here](https://user-images.githubusercontent.com/53841072/87477739-3af14480-c5ee-11ea-8e76-45372bef04a7.png)
+![enter image description here](https://user-images.githubusercontent.com/53841072/89604304-98b12f00-d830-11ea-9787-258a96665dcb.png)
 
+![enter image description here](https://user-images.githubusercontent.com/53841072/89604092-26404f00-d830-11ea-94be-2dba0e8743c0.png)
 
 ## Eliminating Superfluous Infinitives
 
@@ -27,8 +28,6 @@ To sneeze, to smash, to cry, to shriek, to jump, to dunk, to read, to eat, to sl
 If the intent of using "be able to" or "be capable of" type wording is to communicate the system will only need to do the required action based on some condition, trigger, or state, then it is best to state the condition, trigger, or state as part of the requirements.
 
 In this example above, we have an infinitive **to configure** highlighted in yellow. The phrase **allow an authorized user to configure** is unnecessarily verbose. Removing the infinitive and creating a separate requirement restricting unauthorized users would fix the infinitive warning.
-
-
 
 ![enter image description here](https://user-images.githubusercontent.com/53841072/87489899-d7751000-c609-11ea-86ca-e67283a64cec.png)
 
