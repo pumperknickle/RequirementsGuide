@@ -3,6 +3,16 @@
 Hi! Welcome to the guide on improving your requirement's quality. By using the **Requirements Quality Toolkit**, you can automatically analyze your requirements for potentially ambiguities. Eliminating those ambiguities can be a process of eliciting more information from the customer/client. Below are some realistic examples of refactoring requirements using RQT.
 
 
+## Fixing Incorrect Spellings
+
+![enter image description here](https://user-images.githubusercontent.com/53841072/90903595-c602ee80-e393-11ea-970a-8acadb5216d4.png)
+
+If there are misspellings, correct them. Eliminating misspellings are a guaranteed way to decrease requirements ambiguity.
+
+In this example, **shalll** is misspelled, using the correct spelling fixes the misspelling warning.
+
+![enter image description here](https://user-images.githubusercontent.com/53841072/90903881-2eea6680-e394-11ea-88bb-5f10ed1a1a07.png)
+
 ## Defining Undefined Terms
 
 
