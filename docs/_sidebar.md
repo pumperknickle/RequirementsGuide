@@ -10,7 +10,7 @@
 	* [Defined Terms](definedterms.md)
 	* [Definite Articles](definitearticles.md)
 	* [Units](units.md)
-	* [AvoidVagueTerms](avoidvagueterms.md)
+	* [Avoid Vague Terms](avoidvagueterms.md)
 	* [Escape Clauses](escapeclause.md)
 	* [Open Ended Clauses](openendedclauses.md)
 
