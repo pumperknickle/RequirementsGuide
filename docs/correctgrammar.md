@@ -11,4 +11,3 @@ Use correct grammar.
 #### Acceptable
 
 - The weapon subsystem shall store the location of all ordnance.
--

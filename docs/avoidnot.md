@@ -11,5 +11,5 @@ Avoid the use of "not".
 
 #### Acceptable
 
-- The system shall have an availbility of greater than or equal to 95%.
+- The system shall have an availability of greater than or equal to 95%.
 - The system shall limit metallic mercury exposures to less than or equal to 0.025 mg/m over an 8-hour work day.
