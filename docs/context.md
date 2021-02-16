@@ -12,5 +12,4 @@ of each other.
 
 #### Acceptable
 
-- When the Product temperature exceeds 95°C, the Control_System shall close Input_Valves as specified in timing diagram 
-6.
+- When the Product temperature exceeds 95°C, the Control_System shall close Input_Valves as specified in timing diagram.
